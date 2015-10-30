@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grapple", "Grapple\Grapple.csproj", "{54D5381C-1E77-409C-B74B-F8C961FE8C6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApplication", "TestApplication\TestApplication.csproj", "{1CDF3DAD-C9B5-404A-8AB9-86008EC309A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrappleUI", "GrappleUI\GrappleUI.csproj", "{56AAD758-6FF6-4BC0-AC5E-823D9E2371E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54D5381C-1E77-409C-B74B-F8C961FE8C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D5381C-1E77-409C-B74B-F8C961FE8C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D5381C-1E77-409C-B74B-F8C961FE8C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D5381C-1E77-409C-B74B-F8C961FE8C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CDF3DAD-C9B5-404A-8AB9-86008EC309A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CDF3DAD-C9B5-404A-8AB9-86008EC309A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CDF3DAD-C9B5-404A-8AB9-86008EC309A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CDF3DAD-C9B5-404A-8AB9-86008EC309A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56AAD758-6FF6-4BC0-AC5E-823D9E2371E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AAD758-6FF6-4BC0-AC5E-823D9E2371E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AAD758-6FF6-4BC0-AC5E-823D9E2371E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AAD758-6FF6-4BC0-AC5E-823D9E2371E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
